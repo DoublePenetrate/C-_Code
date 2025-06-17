@@ -1,0 +1,3 @@
+hello, this is a test text for gitpush and gitpull.
+meanwhile, this text is also a recorder of this repository.
+if there are some issuse, please record them in this text. 
